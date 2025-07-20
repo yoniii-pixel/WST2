@@ -1,0 +1,14 @@
+h2 {
+  color: purple;
+}
+p {
+  font-size: 18px;
+  color: darkgreen;
+}
+button {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  height: 50px;
+  width: 50px;
+}
